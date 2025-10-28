@@ -1,0 +1,7 @@
+requests
+pillow
+rembg
+fastapi
+uvicorn
+responses
+pytest
